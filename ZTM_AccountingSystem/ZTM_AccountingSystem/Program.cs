@@ -1,9 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-
-
-using System.Security.Principal;
-using System;
 decimal transAmount = 0;
 Console.WriteLine("Welcome to the Accounting System 1.0!");
 
@@ -64,8 +60,8 @@ void TransferMoney()
         checking1.Balance = checking1.Balance - transAmount;
         premium1.Balance = premium1.Balance + transAmount;
     }
-    else 
-    { 
+    else
+    {
         Console.WriteLine("You are transfering from Premium to checking");
         Console.WriteLine("How much do you want to transfer? ");
         transAmount = Convert.ToDecimal(Console.ReadLine());
@@ -89,7 +85,7 @@ static void InterestRate(int id, decimal balance)
 {
     decimal iRate = .03M;
     decimal calIrate = (balance * iRate) + balance;
-    if(id == 100)
+    if (id == 100)
     {
         Console.WriteLine($"Account1 interst: {calIrate.ToString()}");
     }
@@ -98,7 +94,7 @@ static void InterestRate(int id, decimal balance)
         calIrate = (balance * 0.01M) + calIrate;
         Console.WriteLine($"Account2 interst: {calIrate.ToString()}");
     }
-    
+
 
 }
 
@@ -110,7 +106,7 @@ void CheckBalance()
 
 public class Checking
 {
-    public int Id {  get; set; }
+    public int Id { get; set; }
     public decimal Balance { get; set; }
     public Checking(int id, decimal balance)
     {
@@ -119,7 +115,7 @@ public class Checking
     }
 
 
-   
+
 }
 
 public class Premium : Checking
