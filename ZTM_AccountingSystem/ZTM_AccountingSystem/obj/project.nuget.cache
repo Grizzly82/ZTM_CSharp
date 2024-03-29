@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PDE60qmjowxH0dzVYSEm910fngvcIEEB+XxbTA14SSwJXQUBSrZSXzH/hMMWf+MocS1fXdOIv413vvK4AW72Tw==",
+  "dgSpecHash": "VizRSZzT8xc+JRiYYqX6eTu2I/cvj3br0zJlnfvu3Qj69M7PmA5dnfdJgFvtkeZUUlSgq2oqjn9GVVi693eUcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\crisv\\source\\repos\\ZTM\\ZTM_AccountingSystem\\ZTM_AccountingSystem\\ZTM_AccountingSystem.csproj",
+  "projectFilePath": "C:\\Users\\crisv\\source\\repos\\ZTM\\ZTM_CSharp\\ZTM_AccountingSystem\\ZTM_AccountingSystem\\ZTM_AccountingSystem.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

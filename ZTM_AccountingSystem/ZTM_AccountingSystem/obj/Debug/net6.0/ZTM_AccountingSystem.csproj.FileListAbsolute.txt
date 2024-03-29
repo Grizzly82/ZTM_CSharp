@@ -12,3 +12,17 @@ C:\Users\crisv\source\repos\ZTM\ZTM_AccountingSystem\ZTM_AccountingSystem\obj\De
 C:\Users\crisv\source\repos\ZTM\ZTM_AccountingSystem\ZTM_AccountingSystem\obj\Debug\net6.0\ZTM_AccountingSystem.pdb
 C:\Users\crisv\source\repos\ZTM\ZTM_AccountingSystem\ZTM_AccountingSystem\obj\Debug\net6.0\ZTM_AccountingSystem.genruntimeconfig.cache
 C:\Users\crisv\source\repos\ZTM\ZTM_AccountingSystem\ZTM_AccountingSystem\obj\Debug\net6.0\ref\ZTM_AccountingSystem.dll
+C:\Users\crisv\source\repos\ZTM\ZTM_CSharp\ZTM_AccountingSystem\ZTM_AccountingSystem\bin\Debug\net6.0\ZTM_AccountingSystem.exe
+C:\Users\crisv\source\repos\ZTM\ZTM_CSharp\ZTM_AccountingSystem\ZTM_AccountingSystem\bin\Debug\net6.0\ZTM_AccountingSystem.deps.json
+C:\Users\crisv\source\repos\ZTM\ZTM_CSharp\ZTM_AccountingSystem\ZTM_AccountingSystem\bin\Debug\net6.0\ZTM_AccountingSystem.runtimeconfig.json
+C:\Users\crisv\source\repos\ZTM\ZTM_CSharp\ZTM_AccountingSystem\ZTM_AccountingSystem\bin\Debug\net6.0\ZTM_AccountingSystem.dll
+C:\Users\crisv\source\repos\ZTM\ZTM_CSharp\ZTM_AccountingSystem\ZTM_AccountingSystem\bin\Debug\net6.0\ZTM_AccountingSystem.pdb
+C:\Users\crisv\source\repos\ZTM\ZTM_CSharp\ZTM_AccountingSystem\ZTM_AccountingSystem\obj\Debug\net6.0\ZTM_AccountingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crisv\source\repos\ZTM\ZTM_CSharp\ZTM_AccountingSystem\ZTM_AccountingSystem\obj\Debug\net6.0\ZTM_AccountingSystem.AssemblyInfoInputs.cache
+C:\Users\crisv\source\repos\ZTM\ZTM_CSharp\ZTM_AccountingSystem\ZTM_AccountingSystem\obj\Debug\net6.0\ZTM_AccountingSystem.AssemblyInfo.cs
+C:\Users\crisv\source\repos\ZTM\ZTM_CSharp\ZTM_AccountingSystem\ZTM_AccountingSystem\obj\Debug\net6.0\ZTM_AccountingSystem.csproj.CoreCompileInputs.cache
+C:\Users\crisv\source\repos\ZTM\ZTM_CSharp\ZTM_AccountingSystem\ZTM_AccountingSystem\obj\Debug\net6.0\ZTM_AccountingSystem.dll
+C:\Users\crisv\source\repos\ZTM\ZTM_CSharp\ZTM_AccountingSystem\ZTM_AccountingSystem\obj\Debug\net6.0\refint\ZTM_AccountingSystem.dll
+C:\Users\crisv\source\repos\ZTM\ZTM_CSharp\ZTM_AccountingSystem\ZTM_AccountingSystem\obj\Debug\net6.0\ZTM_AccountingSystem.pdb
+C:\Users\crisv\source\repos\ZTM\ZTM_CSharp\ZTM_AccountingSystem\ZTM_AccountingSystem\obj\Debug\net6.0\ZTM_AccountingSystem.genruntimeconfig.cache
+C:\Users\crisv\source\repos\ZTM\ZTM_CSharp\ZTM_AccountingSystem\ZTM_AccountingSystem\obj\Debug\net6.0\ref\ZTM_AccountingSystem.dll
