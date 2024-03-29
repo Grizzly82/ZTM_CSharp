@@ -1,0 +1,14 @@
+C:\Users\crisv\source\repos\ZTM\ZTM_Calc\ZTM_Calc\bin\Debug\net6.0\ZTM_Calc.exe
+C:\Users\crisv\source\repos\ZTM\ZTM_Calc\ZTM_Calc\bin\Debug\net6.0\ZTM_Calc.deps.json
+C:\Users\crisv\source\repos\ZTM\ZTM_Calc\ZTM_Calc\bin\Debug\net6.0\ZTM_Calc.runtimeconfig.json
+C:\Users\crisv\source\repos\ZTM\ZTM_Calc\ZTM_Calc\bin\Debug\net6.0\ZTM_Calc.dll
+C:\Users\crisv\source\repos\ZTM\ZTM_Calc\ZTM_Calc\bin\Debug\net6.0\ZTM_Calc.pdb
+C:\Users\crisv\source\repos\ZTM\ZTM_Calc\ZTM_Calc\obj\Debug\net6.0\ZTM_Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crisv\source\repos\ZTM\ZTM_Calc\ZTM_Calc\obj\Debug\net6.0\ZTM_Calc.AssemblyInfoInputs.cache
+C:\Users\crisv\source\repos\ZTM\ZTM_Calc\ZTM_Calc\obj\Debug\net6.0\ZTM_Calc.AssemblyInfo.cs
+C:\Users\crisv\source\repos\ZTM\ZTM_Calc\ZTM_Calc\obj\Debug\net6.0\ZTM_Calc.csproj.CoreCompileInputs.cache
+C:\Users\crisv\source\repos\ZTM\ZTM_Calc\ZTM_Calc\obj\Debug\net6.0\ZTM_Calc.dll
+C:\Users\crisv\source\repos\ZTM\ZTM_Calc\ZTM_Calc\obj\Debug\net6.0\refint\ZTM_Calc.dll
+C:\Users\crisv\source\repos\ZTM\ZTM_Calc\ZTM_Calc\obj\Debug\net6.0\ZTM_Calc.pdb
+C:\Users\crisv\source\repos\ZTM\ZTM_Calc\ZTM_Calc\obj\Debug\net6.0\ZTM_Calc.genruntimeconfig.cache
+C:\Users\crisv\source\repos\ZTM\ZTM_Calc\ZTM_Calc\obj\Debug\net6.0\ref\ZTM_Calc.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ZTM_Calc/1.0.0": {
+        "runtime": {
+          "ZTM_Calc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZTM_Calc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

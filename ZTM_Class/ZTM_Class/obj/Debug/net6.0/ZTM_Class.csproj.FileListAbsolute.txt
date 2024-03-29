@@ -1,0 +1,14 @@
+C:\Users\crisv\source\repos\ZTM\ZTM_Class\ZTM_Class\bin\Debug\net6.0\ZTM_Class.exe
+C:\Users\crisv\source\repos\ZTM\ZTM_Class\ZTM_Class\bin\Debug\net6.0\ZTM_Class.deps.json
+C:\Users\crisv\source\repos\ZTM\ZTM_Class\ZTM_Class\bin\Debug\net6.0\ZTM_Class.runtimeconfig.json
+C:\Users\crisv\source\repos\ZTM\ZTM_Class\ZTM_Class\bin\Debug\net6.0\ZTM_Class.dll
+C:\Users\crisv\source\repos\ZTM\ZTM_Class\ZTM_Class\bin\Debug\net6.0\ZTM_Class.pdb
+C:\Users\crisv\source\repos\ZTM\ZTM_Class\ZTM_Class\obj\Debug\net6.0\ZTM_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crisv\source\repos\ZTM\ZTM_Class\ZTM_Class\obj\Debug\net6.0\ZTM_Class.AssemblyInfoInputs.cache
+C:\Users\crisv\source\repos\ZTM\ZTM_Class\ZTM_Class\obj\Debug\net6.0\ZTM_Class.AssemblyInfo.cs
+C:\Users\crisv\source\repos\ZTM\ZTM_Class\ZTM_Class\obj\Debug\net6.0\ZTM_Class.csproj.CoreCompileInputs.cache
+C:\Users\crisv\source\repos\ZTM\ZTM_Class\ZTM_Class\obj\Debug\net6.0\ZTM_Class.dll
+C:\Users\crisv\source\repos\ZTM\ZTM_Class\ZTM_Class\obj\Debug\net6.0\refint\ZTM_Class.dll
+C:\Users\crisv\source\repos\ZTM\ZTM_Class\ZTM_Class\obj\Debug\net6.0\ZTM_Class.pdb
+C:\Users\crisv\source\repos\ZTM\ZTM_Class\ZTM_Class\obj\Debug\net6.0\ZTM_Class.genruntimeconfig.cache
+C:\Users\crisv\source\repos\ZTM\ZTM_Class\ZTM_Class\obj\Debug\net6.0\ref\ZTM_Class.dll

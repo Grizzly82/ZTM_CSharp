@@ -1,0 +1,14 @@
+C:\Users\crisv\source\repos\ZTM\ZTM_input_Output\ZTM_input_Output\bin\Debug\net6.0\ZTM_input_Output.exe
+C:\Users\crisv\source\repos\ZTM\ZTM_input_Output\ZTM_input_Output\bin\Debug\net6.0\ZTM_input_Output.deps.json
+C:\Users\crisv\source\repos\ZTM\ZTM_input_Output\ZTM_input_Output\bin\Debug\net6.0\ZTM_input_Output.runtimeconfig.json
+C:\Users\crisv\source\repos\ZTM\ZTM_input_Output\ZTM_input_Output\bin\Debug\net6.0\ZTM_input_Output.dll
+C:\Users\crisv\source\repos\ZTM\ZTM_input_Output\ZTM_input_Output\bin\Debug\net6.0\ZTM_input_Output.pdb
+C:\Users\crisv\source\repos\ZTM\ZTM_input_Output\ZTM_input_Output\obj\Debug\net6.0\ZTM_input_Output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crisv\source\repos\ZTM\ZTM_input_Output\ZTM_input_Output\obj\Debug\net6.0\ZTM_input_Output.AssemblyInfoInputs.cache
+C:\Users\crisv\source\repos\ZTM\ZTM_input_Output\ZTM_input_Output\obj\Debug\net6.0\ZTM_input_Output.AssemblyInfo.cs
+C:\Users\crisv\source\repos\ZTM\ZTM_input_Output\ZTM_input_Output\obj\Debug\net6.0\ZTM_input_Output.csproj.CoreCompileInputs.cache
+C:\Users\crisv\source\repos\ZTM\ZTM_input_Output\ZTM_input_Output\obj\Debug\net6.0\ZTM_input_Output.dll
+C:\Users\crisv\source\repos\ZTM\ZTM_input_Output\ZTM_input_Output\obj\Debug\net6.0\refint\ZTM_input_Output.dll
+C:\Users\crisv\source\repos\ZTM\ZTM_input_Output\ZTM_input_Output\obj\Debug\net6.0\ZTM_input_Output.pdb
+C:\Users\crisv\source\repos\ZTM\ZTM_input_Output\ZTM_input_Output\obj\Debug\net6.0\ZTM_input_Output.genruntimeconfig.cache
+C:\Users\crisv\source\repos\ZTM\ZTM_input_Output\ZTM_input_Output\obj\Debug\net6.0\ref\ZTM_input_Output.dll
