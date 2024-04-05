@@ -1,0 +1,14 @@
+C:\Users\crisv\source\repos\ZTM\ZTM_RacingCal\ZTM_RacingCal\bin\Debug\net6.0\ZTM_RacingCal.exe
+C:\Users\crisv\source\repos\ZTM\ZTM_RacingCal\ZTM_RacingCal\bin\Debug\net6.0\ZTM_RacingCal.deps.json
+C:\Users\crisv\source\repos\ZTM\ZTM_RacingCal\ZTM_RacingCal\bin\Debug\net6.0\ZTM_RacingCal.runtimeconfig.json
+C:\Users\crisv\source\repos\ZTM\ZTM_RacingCal\ZTM_RacingCal\bin\Debug\net6.0\ZTM_RacingCal.dll
+C:\Users\crisv\source\repos\ZTM\ZTM_RacingCal\ZTM_RacingCal\bin\Debug\net6.0\ZTM_RacingCal.pdb
+C:\Users\crisv\source\repos\ZTM\ZTM_RacingCal\ZTM_RacingCal\obj\Debug\net6.0\ZTM_RacingCal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crisv\source\repos\ZTM\ZTM_RacingCal\ZTM_RacingCal\obj\Debug\net6.0\ZTM_RacingCal.AssemblyInfoInputs.cache
+C:\Users\crisv\source\repos\ZTM\ZTM_RacingCal\ZTM_RacingCal\obj\Debug\net6.0\ZTM_RacingCal.AssemblyInfo.cs
+C:\Users\crisv\source\repos\ZTM\ZTM_RacingCal\ZTM_RacingCal\obj\Debug\net6.0\ZTM_RacingCal.csproj.CoreCompileInputs.cache
+C:\Users\crisv\source\repos\ZTM\ZTM_RacingCal\ZTM_RacingCal\obj\Debug\net6.0\ZTM_RacingCal.dll
+C:\Users\crisv\source\repos\ZTM\ZTM_RacingCal\ZTM_RacingCal\obj\Debug\net6.0\refint\ZTM_RacingCal.dll
+C:\Users\crisv\source\repos\ZTM\ZTM_RacingCal\ZTM_RacingCal\obj\Debug\net6.0\ZTM_RacingCal.pdb
+C:\Users\crisv\source\repos\ZTM\ZTM_RacingCal\ZTM_RacingCal\obj\Debug\net6.0\ZTM_RacingCal.genruntimeconfig.cache
+C:\Users\crisv\source\repos\ZTM\ZTM_RacingCal\ZTM_RacingCal\obj\Debug\net6.0\ref\ZTM_RacingCal.dll

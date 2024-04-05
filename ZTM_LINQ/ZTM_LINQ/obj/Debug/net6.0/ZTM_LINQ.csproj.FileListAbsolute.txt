@@ -1,0 +1,14 @@
+C:\Users\crisv\source\repos\ZTM\ZTM_LINQ\ZTM_LINQ\bin\Debug\net6.0\ZTM_LINQ.exe
+C:\Users\crisv\source\repos\ZTM\ZTM_LINQ\ZTM_LINQ\bin\Debug\net6.0\ZTM_LINQ.deps.json
+C:\Users\crisv\source\repos\ZTM\ZTM_LINQ\ZTM_LINQ\bin\Debug\net6.0\ZTM_LINQ.runtimeconfig.json
+C:\Users\crisv\source\repos\ZTM\ZTM_LINQ\ZTM_LINQ\bin\Debug\net6.0\ZTM_LINQ.dll
+C:\Users\crisv\source\repos\ZTM\ZTM_LINQ\ZTM_LINQ\bin\Debug\net6.0\ZTM_LINQ.pdb
+C:\Users\crisv\source\repos\ZTM\ZTM_LINQ\ZTM_LINQ\obj\Debug\net6.0\ZTM_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crisv\source\repos\ZTM\ZTM_LINQ\ZTM_LINQ\obj\Debug\net6.0\ZTM_LINQ.AssemblyInfoInputs.cache
+C:\Users\crisv\source\repos\ZTM\ZTM_LINQ\ZTM_LINQ\obj\Debug\net6.0\ZTM_LINQ.AssemblyInfo.cs
+C:\Users\crisv\source\repos\ZTM\ZTM_LINQ\ZTM_LINQ\obj\Debug\net6.0\ZTM_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\crisv\source\repos\ZTM\ZTM_LINQ\ZTM_LINQ\obj\Debug\net6.0\ZTM_LINQ.dll
+C:\Users\crisv\source\repos\ZTM\ZTM_LINQ\ZTM_LINQ\obj\Debug\net6.0\refint\ZTM_LINQ.dll
+C:\Users\crisv\source\repos\ZTM\ZTM_LINQ\ZTM_LINQ\obj\Debug\net6.0\ZTM_LINQ.pdb
+C:\Users\crisv\source\repos\ZTM\ZTM_LINQ\ZTM_LINQ\obj\Debug\net6.0\ZTM_LINQ.genruntimeconfig.cache
+C:\Users\crisv\source\repos\ZTM\ZTM_LINQ\ZTM_LINQ\obj\Debug\net6.0\ref\ZTM_LINQ.dll
